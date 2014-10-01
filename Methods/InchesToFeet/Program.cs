@@ -20,7 +20,7 @@ namespace InchesToFeet
 
             
         }
-        public static void InchesToFeet 
+        public static void InchesToFeet(int
         
     
     

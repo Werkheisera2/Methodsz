@@ -2,3 +2,5 @@ C:\Users\eahscs\Documents\GitHub\Methods\Methods\InchesToFeet\bin\Debug\InchesTo
 C:\Users\eahscs\Documents\GitHub\Methods\Methods\InchesToFeet\bin\Debug\InchesToFeet.pdb
 C:\Users\eahscs\Documents\GitHub\Methods\Methods\InchesToFeet\obj\x86\Debug\InchesToFeet.exe
 C:\Users\eahscs\Documents\GitHub\Methods\Methods\InchesToFeet\obj\x86\Debug\InchesToFeet.pdb
+C:\Users\EAHSCS\Documents\GitHub\Methodsz\Methods\InchesToFeet\obj\x86\Debug\InchesToFeet.exe
+C:\Users\EAHSCS\Documents\GitHub\Methodsz\Methods\InchesToFeet\obj\x86\Debug\InchesToFeet.pdb
